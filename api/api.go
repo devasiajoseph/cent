@@ -1,5 +1,5 @@
 package api
 
-func ApiTest() string {
-	return "Api success"
+func APITest() string {
+	return "success"
 }
